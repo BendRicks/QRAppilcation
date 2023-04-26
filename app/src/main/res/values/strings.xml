@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QR Appilcation</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="title_generator">Generator</string>
+    <string name="value_plain_text_hint">Enter Value</string>
+</resources>
